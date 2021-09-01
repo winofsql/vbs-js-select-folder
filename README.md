@@ -17,3 +17,19 @@ BIF_DONTGOBELOWDOMAIN (0x00000002)
 --
 BIF_RETURNFSANCESTORS (0x00000008)
 --
+## 実行結果
+```
+C:\java
+[      ] ADDITIONAL_LICENSE_INFO
+[      ] ASSEMBLY_EXCEPTION     
+[Folder] bin
+[Folder] demo
+[Folder] include
+[Folder] jre
+[Folder] lib
+[      ] LICENSE
+[      ] release
+[Folder] sample
+[Folder] src.zip
+[      ] THIRD_PARTY_README     
+```
