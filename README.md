@@ -1,4 +1,4 @@
-# vbs-js-select-folder
+# vbs-js-select-folder( SHIFT_JIS )
 VBScript でフォルダを選択して、フォルダ内のファイル(含フォルダ)を列挙する
 ```javascript
     "code-runner.showRunIconInEditorTitleMenu": false,
