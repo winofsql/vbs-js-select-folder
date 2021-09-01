@@ -1,5 +1,5 @@
 # vbs-js-select-folder( SHIFT_JIS )
-VBScript でフォルダを選択して、フォルダ内のファイル(含フォルダ)を列挙する
+WSH : VBScript でフォルダを選択して、フォルダ内のファイル(含フォルダ)を列挙する
 
 ## add settings.json ( Code Runner )
 ```javascript
